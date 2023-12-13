@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/GnmI7hZcsok
 
 Paper Title:
-Emotion-Based Speech Analysis for Disaster Response and Crisis Management
+Review on Emotion-Based Speech Analysis for Disaster Response and Crisis Management
 
 Paper Presentation:
 https://docs.google.com/presentation/d/1wBAA1lVBYpanU6fNpgF8tiwkqZ3V2KqDn8Kdq9bmrhI/edit?usp=sharing
